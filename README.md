@@ -6,8 +6,7 @@ atarım sağlam starda bot sizlerle!
 
 yok onun yok bunun botu gibi eleştirilere girmeyin editci bi insanım sıfırdan yazmak sıkıcı 
 
-sms sistemini jahkyden izinle aldım 
-<a href="https://github.com/jahkyxd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+sms sistemini jahkyden izinle aldım [Jahky](https://github.com/jahkyxd)
 
 </p>
 <div align="center">
