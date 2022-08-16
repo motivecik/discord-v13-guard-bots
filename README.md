@@ -6,7 +6,7 @@ atarım sağlam starda bot sizlerle!
 
 yok onun yok bunun botu gibi eleştirilere girmeyin editci bi insanım sıfırdan yazmak sıkıcı 
 
-sms sistemini jahkyden izinle aldım [Jahky](https://github.com/jahkyxd)
+sms sistemini [Jahky](https://github.com/jahkyxd)'den izinle aldım 
 
 </p>
 <div align="center">
