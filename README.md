@@ -1,4 +1,4 @@
-#OLUM STARLAYIN AZ DA PAYLAŞAK 10 STAR NE AZ DAHA
+# OLUM STARLAYIN AZ DA PAYLAŞAK 10 STAR NE AZ DAHA
 
 # discord-v13-guard-bots
 V13 Guard &amp; Database &amp; Distributor bots
