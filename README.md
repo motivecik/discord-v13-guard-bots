@@ -1,3 +1,5 @@
+#OLUM STARLAYIN AZ DA PAYLAŞAK 10 STAR NE AZ DAHA
+
 # discord-v13-guard-bots
 V13 Guard &amp; Database &amp; Distributor bots
 Merhaba arkadaşlar sağlam bir guard+database paylaşıcam sizlere sms+gmail sistemi vardır içinde rol silinince token girdiğiniz botlarla oto dağıtır,
